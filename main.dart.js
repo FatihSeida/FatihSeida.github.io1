@@ -47720,12 +47720,12 @@ $0:function(){var s=$.a1U()[this.b].d
 if(s!=null)this.a.l5(s)},
 $S:0}
 A.wY.prototype={
-J:function(a,b){var s,r,q,p=null,o="RobotoCondensed"
-b.Z(t.w).toString
-s=K.ft(15)
-r=P.ag0(10,10)
-q=P.aI(0,255,255,255)
-return M.bv(p,T.a68(s,new T.wR(r,M.bv(p,T.jy(C.aS,H.a([new T.d0(new K.c2(-1,-0.7),p,p,L.dh("Fatih Seida",K.av(b).a_.d.CN(C.i,"Raffina",24),p,p),p),new T.d0(new K.c2(1,-0.9),p,p,T.bZ(L.dh("Bachelor degree of Informatics Engineering",K.av(b).a_.f.U_(C.i,o,16,C.aJ),p,p),p,130),p),new T.d0(new K.c2(1,0.8),p,p,T.bZ(L.dh("I am a bachelor degree graduate of Sunan Gunung Djati State Islamic University, majoring in Informatics Engineering with 3.51 GPA. Love problem-solving, enjoy developing and improving technologies. Eager and passionate to learn something new.",K.av(b).a_.y.CN(C.i,o,10),p,p),p,130),p)],t.E),C.b8),q,p,p,p,p,new V.aE(15,0,15,0),1/0),p)),p,p,p,p,new V.aE(10,0,10,0),p,430)}}
+J:function(a,b){var s,r=null,q="RobotoCondensed",p=b.Z(t.w).f,o=K.ft(15),n=P.ag0(10,10),m=P.aI(0,255,255,255),l=L.dh("Fatih Seida",K.av(b).a_.d.CN(C.i,"Raffina",24),r,r)
+p=p.a.a<500
+s=p?120:140
+s=T.bZ(L.dh("Bachelor degree of Informatics Engineering",K.av(b).a_.f.U_(C.i,q,16,C.aJ),r,r),r,s)
+p=p?120:140
+return M.bv(r,T.a68(o,new T.wR(n,M.bv(r,T.jy(C.aS,H.a([new T.d0(new K.c2(-1,-0.7),r,r,l,r),new T.d0(new K.c2(1,-0.9),r,r,s,r),new T.d0(new K.c2(1,0.8),r,r,T.bZ(L.dh("I am a bachelor degree graduate of Sunan Gunung Djati State Islamic University, majoring in Informatics Engineering with 3.51 GPA. Love problem-solving, enjoy developing and improving technologies. Eager and passionate to learn something new.",K.av(b).a_.y.CN(C.i,q,10),r,r),r,p),r)],t.E),C.b8),m,r,r,r,r,new V.aE(15,0,15,0),1/0),r)),r,r,r,r,new V.aE(10,0,10,0),r,430)}}
 G.pv.prototype={
 J:function(a,b){var s=null,r=K.ft(12)
 $.Jy()
